@@ -1,3 +1,5 @@
+![CI with Gradle](https://github.com/mackdk/SalesTaxes/workflows/CI%20with%20Gradle/badge.svg)
+
 # SalesTaxes
 
 Simple application to print out the receipt for shopping baskets.
